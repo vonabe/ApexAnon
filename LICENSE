@@ -1,0 +1,80 @@
+ApexAnon Proprietary License
+Version 1.0, 15 October 2026
+
+Copyright (c) 2026 vonabe and other respective copyright holders.
+All rights reserved except as expressly granted below.
+
+1. Scope
+
+This license applies only to the original ApexAnon application code, user
+interface, documentation, artwork and other materials to the extent that their
+copyright is held by vonabe (the "Licensor") (the "ApexAnon Materials"). It is
+not an open-source license. Publishing a download, repository or source file
+does not grant permissions beyond those expressly stated here.
+
+Third-party software and materials are excluded from the ApexAnon Materials
+and remain governed by their own licenses. See Section 5.
+
+2. Permission to use official binaries
+
+The Licensor grants you a non-exclusive right to download official, unmodified
+ApexAnon binaries, install and run them on devices you own or are authorized
+to administer, and make reasonable backup copies for that use. You may share
+links to the official downloads. This license does not grant access to a paid
+VPN service or override the separate terms of any service or subscription.
+
+3. Restrictions on ApexAnon Materials
+
+Unless you first obtain the Licensor's written permission, you may not:
+
+- modify, adapt, translate or create derivative works of the ApexAnon Materials;
+- redistribute, mirror, publish, sublicense, sell or otherwise supply copies
+  of the ApexAnon Materials or application binaries to third parties;
+- repackage, rebrand or distribute a modified version of the application;
+- copy the original code, interface or artwork into another project;
+- remove copyright, ownership or license notices; or
+- claim authorship or ownership of the ApexAnon Materials, or present them as
+  your own project.
+
+No source-code license is granted. These restrictions do not limit rights
+that cannot lawfully be excluded, rights expressly granted by applicable
+third-party licenses, or permissions required by the terms of the hosting
+platform for content made available on that platform.
+
+4. Name, logo and affiliation
+
+No permission is granted to use the ApexAnon name, logo or other brand assets
+to identify another product, imply endorsement or affiliation, or pass off a
+different or modified application as an official ApexAnon release. Truthful
+references to ApexAnon and links to official releases are permitted. No claim
+of registered trademark status is made by this notice.
+
+5. Third-party components
+
+The distribution includes independently licensed third-party components,
+including sing-box, Xray-core, Wintun and software dependencies. Their authors
+retain their rights. Applicable third-party licenses, notices and source-code
+obligations continue to apply. This license does not relicense those components,
+restrict modification or redistribution rights they grant, or override any
+copyleft obligation that may apply to a covered or combined work.
+
+If a provision of this license conflicts with rights granted by a third-party
+license for that third-party component, the third-party license controls for
+that component. See THIRD_PARTY_NOTICES.md and the licenses supplied with the
+components. This license is not a representation that all distributed material
+is proprietary or that all dependency compliance obligations have been met.
+
+6. Warranty and liability
+
+To the extent permitted by applicable law, the software is provided "AS IS",
+without warranties of any kind, including merchantability, fitness for a
+particular purpose or non-infringement. The Licensor is not liable for losses
+or damages arising from use of the software to the extent such liability may
+lawfully be excluded. Mandatory consumer rights are not excluded.
+
+7. Termination and permissions
+
+The permissions in Section 2 terminate if you materially breach this license.
+Termination does not affect independent third-party license rights. Permissions
+outside this license must be obtained in writing from vonabe through the
+official GitHub account: https://github.com/vonabe
